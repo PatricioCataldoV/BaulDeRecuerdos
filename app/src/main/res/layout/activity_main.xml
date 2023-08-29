@@ -12,6 +12,7 @@
         android:layout_height="110dp"
         android:layout_marginStart="136dp"
         android:layout_marginTop="76dp"
+        android:backgroundTint="#106CED"
         android:text="JUGAR"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
